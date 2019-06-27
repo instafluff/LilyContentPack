@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Indie Flower';
+	font-size: 5rem;
+}
+
+#subheader {
+	font-size: 2rem;
+	margin: 30px 45px;
+}
+
+a {
+	display: inline-block;
+	margin: 10px 10px;
+	border: solid 1px white;
+}
